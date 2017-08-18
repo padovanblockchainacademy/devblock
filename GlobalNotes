@@ -24,10 +24,16 @@ varios tutoriais
 https://blog.ethereum.org/2016/07/12/build-server-less-applications-mist/
 
 Complementos
+Messaging
 https://github.com/ethereum/wiki/wiki/Whisper
+
+Filesystems
+https://filecoin.io/
 
 IDES
 https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.15+commit.bbb8e64f.js
 
-
+Node clients
+https://github.com/ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum
 
