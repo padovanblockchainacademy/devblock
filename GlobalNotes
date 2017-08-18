@@ -6,34 +6,170 @@ https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe
 livro do antonopolous
 https://github.com/ethereumbook/ethereumbook
 
-design rationalle
-https://github.com/ethereum/wiki/wiki/Design-Rationale
-
-para teca com amor.
-https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30
-https://gist.github.com/hayeah/bd37a123c02fecffbe629bf98a8391df
-
-GitHub com ontologia
-https://github.com/ConsenSys/EthOn
-
-
 Estatisticas
 https://ethstats.net/
+https://www.etherchain.org/
+https://live.ether.camp/
+https://etherscan.io/
+https://ethernodes.org/network/1
+http://www.etherlisten.com/
+http://www.bitlisten.com/
 
-varios tutoriais
-https://blog.ethereum.org/2016/07/12/build-server-less-applications-mist/
+ 
+Ethereum platform
+design rationalle
+https://github.com/ethereum/wiki/wiki/Design-Rationale
+GitHub com ontologia
+https://github.com/ConsenSys/EthOn
+https://github.com/ethereum/EIPs
+
+para teca com amor (estudos da EVM)
+https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30
+https://gist.github.com/hayeah/bd37a123c02fecffbe629bf98a8391df
+https://github.com/ethereum/wiki/wiki/RLP
+
+Node clients
+https://github.com/ethereum/go-ethereum
+https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum
+https://github.com/ethereum/rpc-tests
+https://github.com/ethereum/wiki/wiki/JSON-RPC
+
+Python
+http://www.ethdocs.org/en/latest/ethereum-clients/pyethapp/index.html
+https://github.com/ethereum/pyethapp
+https://github.com/ethereum/pyethereum
+https://github.com/ethereum/pydevp2p
+
+Java
+http://www.ethdocs.org/en/latest/ethereum-clients/ethereumj/index.html
+
+JavaScript
+https://github.com/ethereumjs
+https://github.com/ethereumjs/ethereumjs-vm
+http://www.ethdocs.org/en/latest/ethereum-clients/ethereumjs-lib/index.html
+https://gitter.im/ethereum/ethereumjs-lib
+
+Wallets
+https://github.com/ethereum/mist/releases
+
+browser clientes
+https://metamask.io/
+
+ENS
+http://ens.domains/
+
+DAPPS
+https://github.com/ethereum/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts 
+IDES
+REmix
+https://theethereum.wiki/w/index.php/Remix
+https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.15+commit.bbb8e64f.js
+
+inteliJ
+https://plugins.jetbrains.com/
+https://plugins.jetbrains.com/plugin/9475-intellij-solidity
+https://github.com/intellij-solidity
+
+MIX (Mac)
+https://github.com/ethereum/mix
+
+Eth-Studio (Consensys)
+https://live.ether.camp/eth-studio
+
+Cosmo
+http://cosmo.to/
+http://meteor-dapp-cosmo.meteor.com/
+
+Visual Studio
+https://marketplace.visualstudio.com/items?itemName=ConsenSys.Solidity
+ 
+Frameworks de trabalho
+Web3
+https://github.com/ethereum/web3.js
+https://github.com/web3j/web3j
+http://www.ethdocs.org/en/latest/connecting-to-clients/web3j/index.html
+
+.Net
+https://github.com/Nethereum/Nethereum
+
+Ruby
+https://github.com/DigixGlobal/ethereum-ruby
+
+node js
+https://nodejs.org/en/
+https://downloads.nodesource.com/?submit=true#mac-v6
+
+Meteor
+https://www.meteor.com/
+https://docs.meteor.com/
+
+json
+http://json.org/
+https://github.com/ethereum/wiki/wiki/JSON-RPC
+https://ethereum.stackexchange.com/questions/6121/parse-json-in-solidity
+https://github.com/chrisdotn/jsmnSol
+
+truffle
+http://truffleframework.com/
+
+Embark
+https://github.com/iurimatias/embark-framework
+
+
+
 
 Complementos
+Oracles
+http://www.oraclize.it/
+
+ZeppelinOS
+https://zeppelin.solutions/
+https://blog.zeppelin.solutions/introducing-zeppelinos-the-operating-system-for-smart-contract-applications-82b042514aa8
+
 Messaging
 https://github.com/ethereum/wiki/wiki/Whisper
 
 Filesystems
 https://filecoin.io/
+https://ipfs.io/
+https://swarm-guide.readthedocs.io/en/latest/
+https://github.com/ethersphere/go-ethereum/wiki/IPFS-&-SWARM
 
-IDES
-https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.15+commit.bbb8e64f.js
+InterApps Token Framework
+https://0xproject.com/
 
-Node clients
-https://github.com/ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum
+Comunidades
+https://gitter.im/ethereum/solidity
+https://gitter.im/ethereum/web3.js
 
+https://ethereum.stackexchange.com/
+https://ethereum.stackexchange.com/questions/14/what-proof-of-work-function-does-ethereum-use
+
+varios tutoriais
+Antigo mas bom
+https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial#introduction
+
+42
+https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05
+https://media.consensys.net/time-sure-does-fly-ed4518792679
+
+https://blog.ethereum.org/2015/12/03/how-to-build-your-own-cryptocurrency/
+https://blog.ethereum.org/2015/12/04/ethereum-in-practice-part-2-how-to-build-a-better-democracy-in-under-a-100-lines-of-code/
+https://blog.ethereum.org/2015/12/07/ethereum-in-practice-part-3-how-to-build-your-own-transparent-bank-on-the-blockchain/
+https://blog.ethereum.org/2016/07/12/build-server-less-applications-mist/
+
+https://medium.com/blockchannel/tools-and-technologies-in-the-ethereum-ecosystem-e5b7e5060eb9
+https://medium.com/@mvmurthy/ethereum-for-web-developers-890be23d1d0c
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-2-30b3d335aa1f
+https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-3-331c2712c9df
+
+ 
+Projetos Importantes:
+
+https://augur.net/
+https://coralfundraiser.com/
+https://aragon.one/
+
+https://openzeppelin.org/
+zeppelinOS Marketplace: To catalyze exponential growth among decentralized applications, smart contracts must be able to interact with each other in a standard way. Imagine if Augur could talk to 0x to enable prediction market forecasting in any currency, all done using an Aragon company. This kind of interoperability would accelerate progress across the space, helping developers take the ecosystem mainstream, faster. Our proposed solution is to build a marketplace of inter-contract services natively inside the OS.
